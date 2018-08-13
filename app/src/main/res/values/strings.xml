@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Map Polyline</string>
+    <string name="title_activity_maps">Current Location Google Map</string>
+</resources>
